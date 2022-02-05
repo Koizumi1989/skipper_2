@@ -9,7 +9,7 @@ import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 import "script.js"
 import 'jquery'
-import "scripts/skippr.min"
+import "scripts/skippr.min.js"
 
 
 Rails.start()
